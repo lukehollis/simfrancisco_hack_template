@@ -1,3 +1,6 @@
+
+![simfrancisco_template_visualization](https://github.com/user-attachments/assets/8f470634-12d3-4ac0-a0c8-da7b64e6ffe7)
+
 # SimFrancisco Template Sample
 
 ![React](https://img.shields.io/badge/React-18+-61dafb?style=flat&logo=react)
@@ -55,6 +58,10 @@ cd api
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
+
+
+![simfrancisco_traffic_visualization](https://github.com/user-attachments/assets/9177044b-8888-4380-bae7-a6366cd3d0fa)
+
 
 ## WebSocket Communication
 
