@@ -62,6 +62,14 @@ uvicorn main:app --reload
 
 ![simfrancisco_traffic_visualization](https://github.com/user-attachments/assets/9177044b-8888-4380-bae7-a6366cd3d0fa)
 
+## Data Sources
+
+The `api/data` directory contains GeoJSON files used for the simulation's map layer.
+
+- `bart_lines.geojson`: Geographic data for Bay Area Rapid Transit (BART) lines.
+- `muni_stops.geojson`: Locations of San Francisco Municipal Railway (Muni) stops.
+- `sf_parcel_data.geojson`: Parcel data for San Francisco. This file is not included in the repository due to its size. You can download it from [this Google Drive folder](https://drive.google.com/drive/u/0/folders/1KzdQlpj4AHTmDZOhVkzYSKFqbJgalyG7).
+
 
 ## WebSocket Communication
 
