@@ -9,7 +9,7 @@
     "postbuild": "cp dist/index.html dist/404.html",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist -r git@github.com:lukehollis/simfrancisco_hack_template.git"
   },
   "dependencies": {
     "3d-tiles-renderer": "^0.3.1",

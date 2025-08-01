@@ -12,7 +12,7 @@ export default function App() {
 
       `}</style>
       <Routes>
-        <Route path="/" element={<SFMap />} />
+        <Route path="/simfrancisco_hack_template/" element={<SFMap />} />
       </Routes>
     </BrowserRouter>
   );
