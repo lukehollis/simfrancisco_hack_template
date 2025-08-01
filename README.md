@@ -10,6 +10,8 @@
 
 This repository contains the source code for **SimFrancisco**, a web-based, real-time traffic simulation for San Francisco. The project uses React and Three.js for the front-end visualization and a Python-based FastAPI server for the back-end simulation logic.
 
+[Live Demo](https://lukehollis.github.io/simfrancisco_hack_template/)
+
 ## Project Layout
 
 ```
