@@ -28,6 +28,15 @@ simfrancisco/
     └─ requirements.txt
 ```
 
+## SF SimCity Human Personas Data
+
+The city is more than the structures and land, it's the people that make it up. 
+
+You can see 20,000 generated personas of the humans making up SF based on real census data in this repository:
+
+https://github.com/lukehollis/sf_20k_personas/
+
+
 ## Quick Start
 
 ### 1. Configure Environment Variables
