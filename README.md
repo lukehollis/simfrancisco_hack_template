@@ -30,7 +30,7 @@ simfrancisco/
 
 ## SF SimCity Human Personas Data
 
-The city is more than the structures and land, it's the people that make it up. 
+The city is more than the structures and land, it's the people that inhabit it. 
 
 You can see 20,000 generated personas of the humans making up SF based on real census data in this repository:
 
