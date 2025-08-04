@@ -1,7 +1,7 @@
 
 ![simfrancisco_template_visualization](https://github.com/user-attachments/assets/8f470634-12d3-4ac0-a0c8-da7b64e6ffe7)
 
-# SimFrancisco Template Sample
+# SimFrancisco
 
 ![React](https://img.shields.io/badge/React-18+-61dafb?style=flat&logo=react)
 ![Three.js](https://img.shields.io/badge/Three.js-r150+-000000?style=flat&logo=three.js)
